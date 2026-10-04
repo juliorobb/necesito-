@@ -1,0 +1,9 @@
+{
+  "name": "Necesito",
+  "short_name": "Necesito",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fa",
+  "theme_color": "#111827",
+  "description": "Conecta personas que necesitan un servicio con profesionales disponibles."
+}
